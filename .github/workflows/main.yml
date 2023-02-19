@@ -6,8 +6,6 @@ on:
       - master
 
   # 每天下午四点执行
-  schedule:
-    - cron: "0 16 * * *"
 
 jobs:
   build:
