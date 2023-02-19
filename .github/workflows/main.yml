@@ -5,9 +5,9 @@ on:
     branches:
       - master
 
-  # 每天下午五点执行
+  # 每天下午四点执行
   schedule:
-    - cron: "0 17 * * *"
+    - cron: "0 16 * * *"
 
 jobs:
   build:
