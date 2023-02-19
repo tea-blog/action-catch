@@ -1,0 +1,25 @@
+{
+  "name": "tea-blog",
+  "version": "1.0.0",
+  "main": "catchTxt.js",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "nanfangzhe.cn"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "updates": "",
+  "contributes": {
+    "search": null
+  },
+  "homepage": "",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fs": "0.0.1-security",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7",
+    "qs": "^6.11.0"
+  }
+}
