@@ -8,7 +8,7 @@ const {
     updateFile,
 } = require('./utils/FileUtils');
 const {
-    getArticleMap,
+    getArticleMap, 
 } = require('./utils/ArticleUtils');
 
 const mkdirPath = "./sort/"; // 生成文件的地址
