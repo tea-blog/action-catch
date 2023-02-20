@@ -1,5 +1,6 @@
 name: Tea-Blog-Action
 on:
+  # 设置可以手动执行
   workflow_dispatch:
   push:
     branches:
@@ -23,7 +24,7 @@ jobs:
         uses: actions/setup-node@v1
 
         with:
-          node-version: "12.x"
+          node-version: "14.x"
 
       - name: Run
 
