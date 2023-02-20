@@ -1,6 +1,6 @@
 name: Tea-Blog-Action
-
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
