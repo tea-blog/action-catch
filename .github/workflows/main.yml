@@ -41,7 +41,7 @@ jobs:
 
           git config --global user.name "tea-blog"
 
-          git config --global user.email "nanfangzhe@qq.com"
+          git config --global user.email "nanfangzhe@qq.com.com"
 
           git add .
 
