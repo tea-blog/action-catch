@@ -47,4 +47,4 @@ jobs:
 
           git commit -m 'upload Work-Day-Tea-Blog'
 
-          git push -u origin master
+          git push -u origin main
